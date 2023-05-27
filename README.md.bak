@@ -11,5 +11,5 @@ make compile
 # Pour exécuter Pingouins.jar
 
 ```bash
-make start
+java -jar Pingouins.java
 ```
